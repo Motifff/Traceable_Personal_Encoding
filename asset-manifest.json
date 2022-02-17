@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-p5/static/css/main.75108d8d.css",
+    "main.js": "/react-p5/static/js/main.9f40d080.js",
+    "static/media/ChessSet.obj": "/react-p5/static/media/ChessSet.679588872e29eb6b55c6.obj",
+    "static/media/shader.vert": "/react-p5/static/media/shader.19f7b03b281a204ce18b.vert",
+    "index.html": "/react-p5/index.html",
+    "static/media/shader.frag": "/react-p5/static/media/shader.87b8eb69fcec700f0a71.frag",
+    "main.75108d8d.css.map": "/react-p5/static/css/main.75108d8d.css.map",
+    "main.9f40d080.js.map": "/react-p5/static/js/main.9f40d080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75108d8d.css",
+    "static/js/main.9f40d080.js"
+  ]
+}
