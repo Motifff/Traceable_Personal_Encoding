@@ -1,0 +1,25 @@
+.Button {
+    padding: 20px;
+  }
+
+.verticalBox {
+    padding: 5px;
+    display : flex;
+    flex-direction: column;
+}
+
+.strictBox {
+    display : flex;
+    flex-direction: row;
+}
+
+.Row {
+    display : flex;
+    flex-direction: row;
+}
+
+.Hover {
+    padding: 20px;
+    position: absolute;
+    z-index: 1;
+}
